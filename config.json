@@ -76,6 +76,22 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
+    },
+    "豪华": {
+      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "name": "豪华资源"
+    },
+    "量子": {
+      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml",
+      "name": "量子资源"
+    },
+     "速播": {
+      "api": "https://subocj.com/api.php/provide/vod",
+      "name": "速播资源"
+    },
+     "茅台": {
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn",
+      "name": "茅台资源"
     }
   }
 }
