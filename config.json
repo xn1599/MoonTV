@@ -77,10 +77,7 @@
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
     },
-    "豪华": {
-      "api": "https://hhzyapi.com/api.php/provide/vod",
-      "name": "豪华资源"
-    },
+  
     
      "速播": {
       "api": "https://subocj.com/api.php/provide/vod",
